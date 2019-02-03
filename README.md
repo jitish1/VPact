@@ -1,2 +1,2 @@
 # VPact
-GridView React 
+GridView React-Native
