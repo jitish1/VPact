@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-gesture-handler] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e143dabe6ed66d1ea3c6ef924d6dbb5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1a5b816f51835d53b45468e9658a685b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/62b8e385af31b7b0e068b9cf04549394/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c924c86bff88fe5c6d6d2dc71aa36036/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1bea5acb3f26b1e7533818ce9e6ffd76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e07e0fd62ab69ece3772349a3440c83c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d51bc228b550be2a5e56dda1cf43c3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fbe2ede1a8b0ef9938bcc5323c1dee14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cba1ea8b4697fc9aac71217a73bfae5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7554072b802a75012b4245a9eb9012b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92b6ea51322a7a4f1c0469dcdbf9c91d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50e9f467c33c5dc20d664e465223cdb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7561c2bf9a6add080f836bf70ff17ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1e5e074ac7efc46e077cd673d99ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/70ee677aec30c4628de5878eada52494/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f457e67df864921a0e3cfd41a1fb0975/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e252dd285629e49cff78bcee3dcda5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/571460db7d112ee794d9f6732405f181/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4fcf9894f22d85af588bf78a4a088c82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5b0019a37216c847a5ee229edc8885f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1890751324d99042d8cd3d2a114b208d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/78948a8fc3ff80b04b23ebdd141694ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7dedf562b79b634f81c4eb0b946d97cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62bdb25b88547aa09ba7b765f2308a96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c85b8d1507af103bae154029f82615c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/00ecb20968fdec576c582c0f04e0ef5b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f9445d093224ba11efcb150c4373e084/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507d8a3b9c9b12c5c4d92a2d534e0296/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/90d40a229e27005685c4bb39bb39f8c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/136ef76818b7c3dbaa00ac9822936c0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7224bb124cfa34a5952749524034779c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/41829691793bc9a00029d12dfe3db8a8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4a5d5f5b833779f6d00652d0ecac2ff9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/70ee677aec30c4628de5878eada52494/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/70ee677aec30c4628de5878eada52494/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7224bb124cfa34a5952749524034779c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7224bb124cfa34a5952749524034779c/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/41829691793bc9a00029d12dfe3db8a8/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/41829691793bc9a00029d12dfe3db8a8/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.vpact.MainActivity
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sunilkhanna/GithubProjects/VPact/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/react-native-0.58.1.aar/3cd38a7e1fedcede4998d199cbdae21a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e143dabe6ed66d1ea3c6ef924d6dbb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e143dabe6ed66d1ea3c6ef924d6dbb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1a5b816f51835d53b45468e9658a685b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1a5b816f51835d53b45468e9658a685b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/62b8e385af31b7b0e068b9cf04549394/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/62b8e385af31b7b0e068b9cf04549394/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c924c86bff88fe5c6d6d2dc71aa36036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c924c86bff88fe5c6d6d2dc71aa36036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1bea5acb3f26b1e7533818ce9e6ffd76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1bea5acb3f26b1e7533818ce9e6ffd76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e07e0fd62ab69ece3772349a3440c83c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e07e0fd62ab69ece3772349a3440c83c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d51bc228b550be2a5e56dda1cf43c3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d51bc228b550be2a5e56dda1cf43c3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fbe2ede1a8b0ef9938bcc5323c1dee14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fbe2ede1a8b0ef9938bcc5323c1dee14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cba1ea8b4697fc9aac71217a73bfae5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cba1ea8b4697fc9aac71217a73bfae5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7554072b802a75012b4245a9eb9012b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7554072b802a75012b4245a9eb9012b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92b6ea51322a7a4f1c0469dcdbf9c91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92b6ea51322a7a4f1c0469dcdbf9c91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50e9f467c33c5dc20d664e465223cdb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50e9f467c33c5dc20d664e465223cdb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7561c2bf9a6add080f836bf70ff17ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7561c2bf9a6add080f836bf70ff17ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1e5e074ac7efc46e077cd673d99ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1e5e074ac7efc46e077cd673d99ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/89984c839ef8e7ca0d135353af2fc6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/70ee677aec30c4628de5878eada52494/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/70ee677aec30c4628de5878eada52494/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f457e67df864921a0e3cfd41a1fb0975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f457e67df864921a0e3cfd41a1fb0975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e252dd285629e49cff78bcee3dcda5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e252dd285629e49cff78bcee3dcda5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/571460db7d112ee794d9f6732405f181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/571460db7d112ee794d9f6732405f181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4fcf9894f22d85af588bf78a4a088c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4fcf9894f22d85af588bf78a4a088c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5b0019a37216c847a5ee229edc8885f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5b0019a37216c847a5ee229edc8885f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1890751324d99042d8cd3d2a114b208d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1890751324d99042d8cd3d2a114b208d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/78948a8fc3ff80b04b23ebdd141694ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/78948a8fc3ff80b04b23ebdd141694ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7dedf562b79b634f81c4eb0b946d97cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7dedf562b79b634f81c4eb0b946d97cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62bdb25b88547aa09ba7b765f2308a96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62bdb25b88547aa09ba7b765f2308a96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c85b8d1507af103bae154029f82615c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c85b8d1507af103bae154029f82615c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/00ecb20968fdec576c582c0f04e0ef5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/00ecb20968fdec576c582c0f04e0ef5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f9445d093224ba11efcb150c4373e084/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f9445d093224ba11efcb150c4373e084/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507d8a3b9c9b12c5c4d92a2d534e0296/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507d8a3b9c9b12c5c4d92a2d534e0296/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/90d40a229e27005685c4bb39bb39f8c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/90d40a229e27005685c4bb39bb39f8c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/136ef76818b7c3dbaa00ac9822936c0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/136ef76818b7c3dbaa00ac9822936c0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7224bb124cfa34a5952749524034779c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7224bb124cfa34a5952749524034779c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4a5d5f5b833779f6d00652d0ecac2ff9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sunilkhanna/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4a5d5f5b833779f6d00652d0ecac2ff9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sunilkhanna/GithubProjects/VPact/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
